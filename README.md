@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://abhyaung.github.io/">
-    <img height="40" src="https://simpleicons.org/icons/internetexplorer.svg" alt="Portfolio"/>
+  <a href="https://abhyaung.github.io/myportfolio">
+    <img height="40" src="https://simpleicons.org/?q=network&modal=icon" alt="Portfolio"/>
   </a>
   <a href="https://github.com/abhyaung">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
