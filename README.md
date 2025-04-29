@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://abhyaung.github.io/">
+  <a href="https://abhyaung.github.io/myportfolio">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Portfolio"/>
   </a>
   <a href="https://github.com/abhyaung">
