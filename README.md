@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://abhyaung.github.io/myportfolio">
-    <img height="40" src="https://simpleicons.org/?q=network&modal=icon" alt="Portfolio"/>
+    <img height="40" src="https://www.freepik.com/icon/web-browser_8576378" alt="Portfolio"/>
   </a>
   <a href="https://github.com/abhyaung">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
