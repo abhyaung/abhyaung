@@ -7,16 +7,14 @@
 </h1>
 
 <p align="center">
-  <a href="https://abhyaung.github.io/myportfolio">
-    <img height="40" src="https://www.freepik.com/icon/web-browser_8576378" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/abhyaung">
+  🌐 <a href="https://abhyaung.github.io/" title="My Portfolio">My Portfolio</a>
+  <a href="https://github.com/abhyaung" title="GitHub">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/abhyaung-havale/">
+  <a href="https://www.linkedin.com/in/abhyaung-havale/" title="LinkedIn">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/abhyaung">
+  <a href="https://twitter.com/abhyaung" title="Twitter">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter"/>
   </a>
 </p>
