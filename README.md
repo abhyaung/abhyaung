@@ -4,30 +4,30 @@
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/ali-inamdar/">
-      <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="LinkedIn Badge"/>
+      <img     
+src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="LinkedIn Badge"/>
   </div>
 
 
 
-<h1 align="center">
-  Hi, I’m Abhyaung Havale 👋
-</h1>
-
-<p align="center">
-  <a href="https://abhyaung.github.io/myportfolio">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/abhyaung">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abhyaung">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
-  </a>
-</p>
+<div align="center">
+  <h1>Hi, I’m Abhyaung Havale 👋</h1>
+  <p>
+    <a href="https://abhyaung.github.io/myportfolio" title="Portfolio">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/abhyaung" title="GitHub">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/abhyaung-havale/" title="LinkedIn">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-<h2>👨‍💻 A Bit About Me</h2>
+## 👨‍💻 A Bit About Me
 
 ```yaml
 name: Abhyaung Havale
@@ -65,3 +65,47 @@ hobbies:
     "Coding Challenges",
     "Reading Tech Blogs",
   ]
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"   title="JavaScript"   alt="JavaScript"   width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"            title="Python"       alt="Python"       width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"                title="Java"         alt="Java"         width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"              title="React"        alt="React"        width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"            title="Node.js"      alt="Node.js"      width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"                  title="Git"          alt="Git"          width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"            title="Docker"       alt="Docker"       width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"       title="Kubernetes"   alt="Kubernetes"   width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"                  title="AWS"          alt="AWS"          width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"    title="TensorFlow"   alt="TensorFlow"   width="40" height="40"/>
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://github.com/abhyaung" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhyaung-havale/" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abhyaung@example.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mail/mail-original.svg" width="40" height="40" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/abhyaung" title="Twitter">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/abhyaung" title="DEV">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="40" height="40" alt="DEV"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
