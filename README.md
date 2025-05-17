@@ -98,11 +98,8 @@ hobbies:
   <a href="mailto:abhyaung@example.com" title="Email">
     <img src="https://www.svgrepo.com/show/521128/email-1.svg" width="40" height="40" alt="Email"/>
   </a>
-  <a href="https://twitter.com/abhyaung" title="Twitter">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>
-  </a>
   <a href="https://dev.to/abhyaung" title="DEV">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="40" height="40" alt="DEV"/>
+    <img src="https://www.svgrepo.com/show/267862/portfolio.svg" width="40" height="40" alt="Portfolio"/>
   </a>
 </p>
 
