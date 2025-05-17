@@ -14,7 +14,7 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
   <h1>Hi, I’m Abhyaung Havale 👋</h1>
   <p>
     <a href="https://abhyaung.github.io/myportfolio" title="Portfolio">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Portfolio"/>
+      <img height="40" src="https://www.svgrepo.com/show/267862/portfolio.svg" alt="Portfolio"/>
     </a>
     <a href="https://github.com/abhyaung" title="GitHub">
       <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
