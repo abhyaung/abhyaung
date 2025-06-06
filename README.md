@@ -13,7 +13,7 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
 <div align="center">
   <h1>Hi, I’m Abhyaung Havale 👋</h1>
   <p>
-    <a href="https://abhyaung.github.io/myportfolio" title="Portfolio">
+    <a href="https://https://abhyaung.github.io/" title="Portfolio">
       <img height="40" src="https://www.svgrepo.com/show/267862/portfolio.svg" alt="Portfolio"/>
     </a>
     <a href="https://github.com/abhyaung" title="GitHub">
@@ -98,7 +98,7 @@ hobbies:
   <a href="mailto:abhyaung@example.com" title="Email">
     <img src="https://www.svgrepo.com/show/521128/email-1.svg" width="40" height="40" alt="Email"/>
   </a>
-  <a href="https://dev.to/abhyaung" title="DEV">
+  <a href="https://abhyaung.github.io/" title="DEV">
     <img src="https://www.svgrepo.com/show/267862/portfolio.svg" width="40" height="40" alt="Portfolio"/>
   </a>
 </p>
