@@ -13,7 +13,7 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
 <div align="center">
   <h1>Hi, I’m Abhyaung Havale 👋</h1>
   <p>
-    <a href="https://https://abhyaung.github.io/" title="Portfolio">
+    <a href="abhyaung.github.io/" title="Portfolio">
       <img height="40" src="https://www.svgrepo.com/show/267862/portfolio.svg" alt="Portfolio"/>
     </a>
     <a href="https://github.com/abhyaung" title="GitHub">
