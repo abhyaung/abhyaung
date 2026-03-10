@@ -12,7 +12,7 @@
     <a href="https://github.com/abhyaung" title="GitHub">
       <img height="40" src="https://www.svgrepo.com/show/475654/github-color.svg" alt="GitHub"/>
     </a>
-    <a href="https://www.linkedin.com/in/abhyaung/" title="LinkedIn">
+    <a href="www.linkedin.com/in/abhyaunghavale" title="LinkedIn">
       <img height="40" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn"/>
     </a>
     <a href="https://abhyaung.github.io/Abhyaung_Havale_Resume.pdf" title="Resume"> 
@@ -86,12 +86,12 @@ hobbies:
 
 <p align="center">
   <a href="https://github.com/abhyaung" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+    <img src="https://www.svgrepo.com/show/267862/portfolio.svg" width="40" height="40" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/abhyaung/" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/abhyaunghavale" title="LinkedIn">
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:abhyaung@example.com" title="Email">
+  <a href="mailto:abhyaunghavale@gmail.com" title="Email">
     <img src="https://www.svgrepo.com/show/521128/email-1.svg" width="40" height="40" alt="Email"/>
   </a>
   <a href="https://abhyaung.github.io/" title="DEV">
