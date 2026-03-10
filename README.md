@@ -86,7 +86,7 @@ hobbies:
 
 <p align="center">
   <a href="https://github.com/abhyaung" title="GitHub">
-    <img src="https://www.svgrepo.com/show/267862/portfolio.svg" width="40" height="40" alt="GitHub"/>
+    <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" height="40" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/abhyaunghavale" title="LinkedIn">
     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
@@ -94,7 +94,7 @@ hobbies:
   <a href="mailto:abhyaunghavale@gmail.com" title="Email">
     <img src="https://www.svgrepo.com/show/503852/mail.svg" width="40" height="40" alt="Email"/>
   </a>
-  <a href="https://abhyaung.github.io/" title="DEV">
+  <a href="https://abhyaung.github.io/" title="Portfolio">
     <img src="https://www.svgrepo.com/show/267862/portfolio.svg" width="40" height="40" alt="Portfolio"/>
   </a>
 </p>
