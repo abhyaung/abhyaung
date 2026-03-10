@@ -92,7 +92,7 @@ hobbies:
     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:abhyaunghavale@gmail.com" title="Email">
-    <img src="https://www.svgrepo.com/show/521128/email-1.svg" width="40" height="40" alt="Email"/>
+    <img src="https://www.svgrepo.com/show/503852/mail.svg" width="40" height="40" alt="Email"/>
   </a>
   <a href="https://abhyaung.github.io/" title="DEV">
     <img src="https://www.svgrepo.com/show/267862/portfolio.svg" width="40" height="40" alt="Portfolio"/>
