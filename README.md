@@ -12,7 +12,7 @@
     <a href="https://github.com/abhyaung" title="GitHub">
       <img height="40" src="https://www.svgrepo.com/show/475654/github-color.svg" alt="GitHub"/>
     </a>
-    <a href="www.linkedin.com/in/abhyaunghavale" title="LinkedIn">
+    <a href="https://www.linkedin.com/in/abhyaunghavale" title="LinkedIn">
       <img height="40" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn"/>
     </a>
     <a href="https://abhyaung.github.io/Abhyaung_Havale_Resume.pdf" title="Resume"> 
