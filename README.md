@@ -36,7 +36,10 @@ education:
   ]
 fields_of_interest:
   [
+    "AI-Engineer",
     "Full-Stack Development",
+    "Back-End Development",
+    "AWS Cloud Engineer",
     "Data Structures & Algorithms",
     "NLP & Machine Learning",
     "System Design",
@@ -44,9 +47,14 @@ fields_of_interest:
   ]
 currently_learning:
   [
-    "Next.js",
+    "AWS Solution Architecht",
     "Docker & Kubernetes",
     "GraphQL",
+    "AI Engineering",
+    "RAG-Inference-Models",
+    "Software Architecture",
+    "JAVA",
+    "Fast-API", 
   ]
 goals_2025:
   [
