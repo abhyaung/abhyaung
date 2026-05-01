@@ -75,37 +75,13 @@ hobbies:
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"   title="JavaScript"   alt="JavaScript"   width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"            title="Python"       alt="Python"       width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"                title="Java"         alt="Java"         width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"              title="React"        alt="React"        width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"            title="Node.js"      alt="Node.js"      width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"                  title="Git"          alt="Git"          width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"            title="Docker"       alt="Docker"       width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"       title="Kubernetes"   alt="Kubernetes"   width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"                  title="AWS"          alt="AWS"          width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"    title="TensorFlow"   alt="TensorFlow"   width="40" height="40"/>
-</p>
+<p align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"></picture></p>
 
 ---
 
 ## 📫 Let’s Connect
 
-<p align="center">
-  <a href="https://github.com/abhyaung" title="GitHub">
-    <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abhyaunghavale" title="LinkedIn">
-    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:abhyaunghavale@gmail.com" title="Email">
-    <img src="https://www.svgrepo.com/show/503852/mail.svg" width="40" height="40" alt="Email"/>
-  </a>
-  <a href="https://abhyaung.github.io/" title="Portfolio">
-    <img src="https://www.svgrepo.com/show/267862/portfolio.svg" width="40" height="40" alt="Portfolio"/>
-  </a>
-</p>
+<p align="center"><a href="https://github.com/abhyaung" title="GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/475654/github-color.svg"><img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" height="40" alt="GitHub"></picture></a> <a href="https://www.linkedin.com/in/abhyaunghavale" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/448234/linkedin.svg"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="40" height="40" alt="LinkedIn"></picture></a> <a href="mailto:abhyaunghavale@gmail.com" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/503852/mail.svg"><img src="https://www.svgrepo.com/show/503852/mail.svg" width="40" height="40" alt="Email"></picture></a> <a href="https://abhyaung.github.io/" title="Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/267862/portfolio.svg"><img src="https://www.svgrepo.com/show/267862/portfolio.svg" width="40" height="40" alt="Portfolio"></picture></a></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
