@@ -48,7 +48,6 @@ fields_of_interest:
   ]
 currently_learning:
   [
-    "AWS Solution Architecht",
     "Docker & Kubernetes",
     "GraphQL",
     "AI Engineering",
