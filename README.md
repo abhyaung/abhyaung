@@ -33,6 +33,7 @@ education:
   [
     "M.S. in Computer Science @ Pace University",
     "B.Sc. in Computer Science @ Modern College of Arts, Science & Commerce",
+    "AWS Certified Solutions Architect",
   ]
 fields_of_interest:
   [
