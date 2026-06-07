@@ -40,6 +40,7 @@ fields_of_interest:
     "Full-Stack Development",
     "Back-End Development",
     "AWS Cloud Engineer",
+    "AWS Certified Solutions Architect",
     "Data Structures & Algorithms",
     "NLP & Machine Learning",
     "System Design",
