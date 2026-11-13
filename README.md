@@ -28,7 +28,7 @@
 ```yaml
 name: Abhyaung Havale
 located_in: New York, USA
-current_role: Software Developer Intern @ SECA Intelligence
+current_role: Software Developer Intern @ BBTT
 education:
   [
     "M.S. in Computer Science @ Pace University",
